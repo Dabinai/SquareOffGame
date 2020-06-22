@@ -1,0 +1,9 @@
+{
+  "engine": "cocos-creator-js",
+  "packages": "packages",
+  "name": "brick_game",
+  "uuid": "9c1e5301-cf1e-41bf-b17c-2d305644f4f7",
+  "version": "2.3.4",
+  "id": "5de3dddb-aad3-4f37-bb47-34a5bc4c59db",
+  "isNew": false
+}
